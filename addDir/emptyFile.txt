@@ -1,2 +1,11 @@
 baris ke 1
 baris ke 2
+
+baris ke 5
+baris ke 6
+
+
+
+
+baris ke 9
+baris ke 1
